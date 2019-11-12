@@ -1,0 +1,21 @@
+
+html, body{
+  margin: 0;
+  padding: 0;
+}
+.full-page{
+  color: #FFFFFF; 
+}
+
+.is-primary{
+  background-color: #375a7f !important;
+}
+
+.container {
+  margin-top: 16px;
+  margin-bottom: 32px;
+}
+
+.content{
+  margin-bottom:12px;
+}
